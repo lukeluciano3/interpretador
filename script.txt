@@ -1,0 +1,7 @@
+10 LET A = 15
+20 LET B = A * 3
+30 PRINT "O valor de A e: "; A
+40 PRINT "O valor de A vezes 3 e: "; B
+50 IF A > 10 THEN LET C = A + B : PRINT "A + B = "; C
+60 IF A <= 10 THEN PRINT "A e menor ou igual a 10."
+70 PRINT "Fim do programa."
